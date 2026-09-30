@@ -1,9 +1,9 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Gussy-oda/MSFP1)
-# Práctica 1: Diseño de controladores
+# Práctica 1: Diseño de controladores.
 
-## Información de la estudiante
+## Información del estudiante
 
-Gustavo Ortega Odabachea\[23212223]; L23212223@tijuana.tecnm.mx
+Gustavo Ortega Odabachea\[23212223]; L23212223@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
