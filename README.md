@@ -3,7 +3,7 @@
 
 ## Información de la estudiante
 
-Gustavo Ortega Odabachea\[23212223]; L23212223@tectijuana.edu.mx
+Gustavo Ortega Odabachea\[23212223]; L23212223@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
